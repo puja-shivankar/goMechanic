@@ -1,0 +1,24 @@
+.main-switch {
+  background-color: #fff !important;
+  padding: 10px 10px 30px;
+  position: relative;
+  border-radius: 10px;
+  margin-left: 2em;
+  width: 90%;
+}
+@media (max-width: 1023px) {
+  .main-switch {
+    padding: 15px;
+  }
+}
+
+.switch-title {
+  padding: 0;
+  margin: 1em;
+}
+.switch-button {
+  display: flex;
+  margin-left: 38rem;
+  cursor: pointer;
+  margin-top: -9em;
+}

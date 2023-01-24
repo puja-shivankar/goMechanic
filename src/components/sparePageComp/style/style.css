@@ -1,0 +1,34 @@
+@import url("./navbar.css");
+@import url("./componentsStyle.css");
+@import url("./mediaQuery.css");
+
+html {
+  height: 100vh;
+  /* width: 100vw; */
+}
+* {
+  font-family: "Gilroy", sans-serif !important;
+}
+:root {
+  --primary: #e73c33;
+  --defaultRadius: 0.2rem;
+  --defaultPadding: 0.8rem;
+}
+
+* {
+  /* margin: 0; */
+  padding: 0;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+}
+.mainApp {
+  border: solid 1px lightgray;
+  box-sizing: border-box;
+  height: 100vh;
+  width: 100vw;
+}

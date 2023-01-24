@@ -1,0 +1,28 @@
+.img-container {
+  min-height: 46.875rem;
+  min-width: 100%;
+  background-image: url("/src/assets/images/go-mechanic-bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.home-content {
+  margin-left: 3em;
+  width: 60vw;
+}
+/* 
+.bodyDiv{
+  height: 100vh;
+  overflow-y: scroll;
+
+} */
+
+.floatingDiv {
+  position: absolute;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+.loader-style {
+  padding-top: 35vh;
+}

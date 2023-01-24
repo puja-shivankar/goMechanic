@@ -1,0 +1,38 @@
+.form-box {
+  background-color: #fde3e6;
+  padding: 1em;
+  padding-left: 3em;
+  margin: 1em;
+}
+.font-size {
+  font-weight: 600;
+  font-size: 18px;
+  margin-left: 1em;
+}
+
+.search-btn {
+  border: none;
+  height: 3em;
+  width: 10em;
+  background-color: rgb(230, 133, 133);
+  border-radius: 0.3em;
+  text-align: center;
+  color: white;
+  font-weight: 800;
+  margin-left: 8em;
+
+}
+
+:hover.search-btn{
+  background-color:  rgb(235, 92, 92);
+}
+
+.sel {
+  height: 3em;
+  /* cursor: pointer; */
+  margin-left: 5em;
+}
+
+.dropdown{
+  cursor: pointer;
+}

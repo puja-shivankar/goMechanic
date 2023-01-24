@@ -1,0 +1,138 @@
+.filledButton {
+  background-color: var(--primary);
+  color: white;
+  padding: var(--defaultPadding);
+  border-radius: var(--defaultRadius);
+}
+
+.floatingSearch {
+  background-color: white;
+  border-top: var(--primary);
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.385);
+  display: none;
+  position: absolute;
+  top: 8rem;
+  width: 23.5rem;
+  padding: 3rem;
+  cursor: pointer;
+  border-top: solid 3px var(--primary);
+  z-index: 100 !important;
+}
+.floatingRect {
+  background-color: white;
+  padding: 0.3rem;
+  border-top: solid 3px var(--primary);
+  border-left: solid 3px var(--primary);
+  rotate: 45deg;
+  left: 50%;
+  position: absolute;
+  top: -0.6rem;
+
+}
+
+.floatingSearchData {
+  display: grid;
+  grid-template-columns: auto auto;
+  text-align: center;
+  font-family: Gilroy, sans-serif;
+  font-size: 0.8rem;
+  line-height: 1.5rem;
+}
+.floatingSearch span:not(.floatingDataHeading) {
+  font-size: small !important;
+}
+
+.userIcon {
+  display: none;
+  background-color: #cfc9c9;
+  padding: 0.5rem;
+  border-radius: 50%;
+}
+.searchIcon {
+  display: none;
+}
+
+/* Slider  */
+
+.swiper {
+  width: 100%;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  padding: 1.5rem 0;
+  overflow: visible;
+  cursor: pointer;
+}
+
+.swiper-slide img {
+  display: block;
+  object-fit: cover;
+  scale: 1;
+}
+.swiper-pagination * {
+  background-color: var(--primary);
+  transition: all 0.8s;
+}
+.paginationSlider {
+  padding: 2rem 0;
+}
+
+.smallSliderImage {
+  /* height: 200px; */
+  cursor: pointer;
+  /* width: 200px;
+  height: 240px; */
+  border-radius: 5%;
+}
+.smallPaginationSlider .swiper-pagination * {
+  /* border-radius: 0.2rem !important; */
+  padding: 0.1rem 0.5rem;
+  scale: 0.5;
+}
+
+/* spear parts */
+.spearParts {
+  margin: 0.5rem;
+}
+.singleSparePart {
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.singleSparePart .spearPartIcon {
+  width: 120px;
+  height: 120px;
+  background: #f7f7fa;
+  box-shadow: 0 0 4px rgb(0 0 0 / 20%);
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+.singleSparePart .spearPartImage {
+  height: 60px;
+  width: 60px;
+}
+
+.singleSparePart .spearPartName {
+  padding: 1rem;
+}
+.title {
+  font-size: xx-large;
+  font-weight: bold;
+  display: flex;
+  width: 100%;
+  padding-left: 3rem;
+}

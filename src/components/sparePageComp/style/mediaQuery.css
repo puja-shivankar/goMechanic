@@ -1,0 +1,38 @@
+@media screen and (max-width: 450px) {
+  .leftNavbar {
+    margin: 0 !important;
+  }
+  .searchBar {
+    display: none;
+  }
+  .cart {
+    display: block !important;
+  }
+  .menueItem {
+    display: none;
+  }
+  .leftLogoMenue {
+    display: flex;
+    width: 100%;
+  }
+  .logo {
+    width: 50%;
+    margin: 0.5rem;
+  }
+  .menu {
+    display: block;
+  }
+  .userIcon {
+    display: block;
+  }
+  .rightNavbar {
+    width: 40% !important;
+  }
+  .searchIcon {
+    display: block;
+  }
+  .cartNumber {
+    top: -100%;
+    left: 60%;
+  }
+}

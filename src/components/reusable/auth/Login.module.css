@@ -1,0 +1,40 @@
+.login {
+  background-color: rgb(225, 225, 225);
+  height: 15vh;
+}
+.im {
+  float: right;
+  background-color: rgb(225, 225, 225);
+  margin-bottom: 4%;
+  margin-right: 5%;
+}
+.mobile-no {
+  text-transform: uppercase;
+  border: 1px solid gray;
+  padding: 0.5em;
+  margin-bottom: 1em;
+  font-weight: 500;
+  width: 26vw;
+  align-items: center;
+  border: none;
+}
+
+.btn {
+  background-color: #e73c33;
+  color: white;
+  border: none;
+  width: 25vw;
+  height: 7vh;
+  margin-top: 2%;
+}
+
+.inp {
+  margin-top: 2%;
+  width: 25vw;
+}
+
+.login-modal {
+  width: 100vh;
+
+  transform: translate(50%,1%);
+}

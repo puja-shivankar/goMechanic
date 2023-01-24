@@ -1,0 +1,11 @@
+.hr {
+  /* height: 2.286px; */
+  height: 0.1429rem;
+  /* width: 40px; */
+  width: 9rem;
+  background-color: #e73c33;
+  margin-bottom: 1em;
+}
+.hr-warning {
+  background-color: #ba140b;
+}

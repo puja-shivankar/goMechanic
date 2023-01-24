@@ -1,0 +1,84 @@
+.card-body {
+  cursor: pointer;
+
+  display: flex;
+  flex-direction: column;
+  /* justify-content: flex-start; */
+  align-items: center;
+  box-sizing: border-box;
+  background: #fff;
+  -webkit-box-shadow: 0 0 4px rgb(0 0 0 / 20%);
+  border-radius: 1px;
+  height: 250%;
+  width: 240px;
+  margin-left: 12em;
+}
+.topdeal-div {
+  /* margin: 1em; */
+}
+.topdeal-head {
+  color: black;
+
+  font-weight: 400;
+  margin-top: 10%;
+}
+.topdeal-image {
+  margin-left: 20%;
+}
+.topdeal-rating {
+  width: 40px;
+  font-size: smaller;
+  margin-right: 12rem;
+  margin-top: 1em;
+  text-align: center;
+  align-items: center;
+  grid-gap: 4px;
+  gap: 4px;
+  row-gap: 4px;
+  column-gap: 4px;
+  background: #3a9b14;
+  border-radius: 10px;
+  color: #fff;
+}
+.topdeal-name {
+  padding: 1em;
+  letter-spacing: 0.006875rem;
+  text-align: left;
+  font-size: small;
+  font-weight: 600;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: normal;
+  color: rgba(0, 0, 0, 0.87);
+}
+.topdeal-desc {
+  font-size: smaller;
+  width: 100%;
+  overflow: hidden;
+  font-weight: 400;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  olor: rgba(0, 0, 0, 0.54);
+}
+.topdeal-price {
+  text-decoration: line-through;
+
+  font-size: smaller;
+}
+.topdeal-button {
+  font-size: small;
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-left: 12px;
+  color: red;
+  border-color: red;
+  background-color: white;
+}
+.topdeal-off {
+  font-size: smaller;
+  width: 50px;
+  background-color: #c7efa3;
+  text-align: center;
+}

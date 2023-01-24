@@ -1,0 +1,25 @@
+.choose {
+  margin-top: 5%;
+  margin-left: 2%;
+}
+.heading-data {
+  display: block;
+  /* width: max-content; */
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: 500;
+}
+.line-data {
+  font-weight: 400;
+  font-family: "Times New Roman";
+  /* margin-left: 5%; */
+}
+.Title {
+  /* margin-left: 2%; */
+}
+.choose-container {
+  padding: 2em;
+  background-color: hsla(0, 0%, 91.8%, 0.56);
+}

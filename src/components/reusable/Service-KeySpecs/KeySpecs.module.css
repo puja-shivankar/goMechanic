@@ -1,0 +1,46 @@
+.key-table {
+  padding-top: 3em;
+  background-color: #eaeaea;
+}
+.key-table-tbody {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 1em;
+}
+.key-table-tr {
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-left: 2em;
+  padding-bottom: 2em;
+}
+.key-title {
+  font-size: 14px;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.58;
+  letter-spacing: 0.12px;
+  margin-top: 1em;
+  color: #9b9b9b;
+  width: max-content;
+  text-align: center;
+}
+.key-img {
+  margin-top: 2em;
+  align-items: center;
+}
+.key-table-th {
+  display: table-cell;
+  vertical-align: inherit;
+  font-weight: bold;
+}
+.key-caption {
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  width: max-content;
+  text-align: center;
+  line-height: 1.58;
+  letter-spacing: 0.12px;
+}

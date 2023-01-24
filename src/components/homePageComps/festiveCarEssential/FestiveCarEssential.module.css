@@ -1,0 +1,14 @@
+.custom-card img{
+  height: 180px;
+  width: 180px;
+  border-radius: 10%;
+ padding: 40%;
+ margin-left: 5%;
+ margin-bottom: 10%;
+ 
+}
+.custom-card {
+  margin-right: 6em;
+}
+
+

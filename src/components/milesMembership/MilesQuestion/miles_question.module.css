@@ -1,0 +1,27 @@
+.quetion-header {
+  font-size: 20px;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.67;
+  letter-spacing: 0.04px;
+  text-align: left;
+  color: #fff;
+}
+.div-color {
+  background-color: #36393b;
+  /* margin-right: 15%; */
+  /* padding-left: 2%; */
+}
+.quetions {
+  padding: 0;
+  flex-direction: row;
+  align-items: center;
+  display: flex;
+  color: #fff;
+}
+@media screen and (max-width: 1022px) and (min-width: 768px) {
+  .quetion-main {
+    font-size: 1.5em;
+  }
+}

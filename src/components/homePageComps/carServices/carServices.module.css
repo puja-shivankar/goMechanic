@@ -1,0 +1,29 @@
+.car-service {
+  width: 160px;
+  height: 160px;
+  background-color: hsla(0, 0%, 91.8%, 0.56);
+  border-radius: 5px;
+  text-align: center;
+  font-size: 0.8em;
+  font-weight: 600;
+  /* margin-left: 3rem; */
+}
+
+.car-service:hover {
+  transform: scale(1.04);
+}
+h3 {
+  display: block;
+  font-size: 1.7em;
+
+  font-weight: bold;
+}
+/* .heading-data{
+  font-size: 0.9375rem;
+    font-weight: 400;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: .0081rem;
+    text-align: left;
+    color: #4a4a4a;
+} */

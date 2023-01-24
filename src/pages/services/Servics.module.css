@@ -1,0 +1,14 @@
+.home-content {
+  margin-left: 2em;
+  width: 60vw;
+}
+.sliding-tabs {
+  /* margin-left: 2em; */
+  width: 64vw;
+}
+* {
+  margin: 0;
+}
+.loader-style {
+  padding-top: 35vh;
+}

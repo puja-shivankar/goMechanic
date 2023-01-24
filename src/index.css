@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  overflow-y: scroll !important;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+*,
+html {
+  margin: 0;
+}
+
+* {
+  -ms-overflow-style: none;
+}
+.slick-next,
+.slick-prev {
+  /* background-color: grey !important; */
+  border-radius: 50%;
+  color: rgb(239, 232, 232);
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.slick-arrow {
+  background-color: grey !important;
+  /* color: black !important; */
+  border: none I !important;
+  outline: none !important;
+}
+
+.slick-next,
+.slick-prev {
+  /* background-color: grey !important; */
+
+  border-radius: 50%;
+
+  color: rgb(239, 232, 232);
+
+  margin-right: 20px;
+
+  margin-left: 20px;
+}
+
+.slick-arrow {
+  background-color: grey !important;
+
+  /* color: black !important; */
+
+  border: none I !important;
+
+  outline: none !important;
+}
+
+.swiper-scrollbar-drag {
+  display: none !important;
+}
+
+.swiper-scrollbar,
+.swiper-scrollbar-horizontal {
+  display: none !important;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  display: none !important;
+}
+.react-tel-input .form-control {
+  border-radius: 0;
+}
+.special-label {
+  display: none !important;
+}

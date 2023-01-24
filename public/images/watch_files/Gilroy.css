@@ -1,0 +1,265 @@
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Extrabold.eot'); */
+  src: local('Gilroy Extrabold'), local('Gilroy-Extrabold'),
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-Extrabold.otf') format('opentype'); */
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-Extrabold.otf') format('opentype');
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Extrabold.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Extrabold.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Extrabold.ttf') format('truetype'); */
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-UltraLightItalic.eot'); */
+  src: local('Gilroy UltraLight Italic'), local('Gilroy-UltraLightItalic'),
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-UltraLightItalic.otf') format('opentype'); */
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-UltraLightItalic.otf') format('opentype');
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-UltraLightItalic.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-UltraLightItalic.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-UltraLightItalic.ttf') format('truetype'); */
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-BoldItalic.eot'); */
+  src: local('Gilroy Bold Italic'), local('Gilroy-BoldItalic'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-BlackItalic.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-BoldItalic.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-BoldItalic.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-BoldItalic.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-BoldItalic.ttf') format('truetype'); */
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Semibold.eot'); */
+  src: local('Gilroy Semibold'), local('Gilroy-Semibold'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-Semibold.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-Semibold.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Semibold.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Semibold.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Semibold.ttf') format('truetype'); */
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-BlackItalic.eot'); */
+  src: local('Gilroy Black Italic'), local('Gilroy-BlackItalic'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-BlackItalic.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-BlackItalic.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-BlackItalic.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-BlackItalic.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-BlackItalic.ttf') format('truetype'); */
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-ThinItalic.eot'); */
+  src: local('Gilroy Thin Italic'), local('Gilroy-ThinItalic'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-ThinItalic.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-ThinItalic.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-ThinItalic.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-ThinItalic.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-ThinItalic.ttf') format('truetype'); */
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-ExtraboldItalic.eot'); */
+  src: local('Gilroy Extrabold Italic'), local('Gilroy-ExtraboldItalic'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-ExtraboldItalic.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-ExtraboldItalic.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-ExtraboldItalic.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-ExtraboldItalic.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-ExtraboldItalic.ttf') format('truetype'); */
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Black.eot'); */
+  src: local('Gilroy Black'), local('Gilroy-Black'),
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-Black.otf') format('opentype'); */
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-Black.otf') format('opentype');
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Black.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Black.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Black.ttf') format('truetype'); */
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-HeavyItalic.eot'); */
+  src: local('Gilroy Heavy Italic'), local('Gilroy-HeavyItalic'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-HeavyItalic.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-HeavyItalic.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-HeavyItalic.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-HeavyItalic.ttf') format('truetype'); */
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Regular.eot'); */
+  src: local('Gilroy Regular'), local('Gilroy-Regular'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-Regular.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-Regular.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Regular.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Regular.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Regular.ttf') format('truetype'); */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-SemiboldItalic.eot'); */
+  src: local('Gilroy Semibold Italic'), local('Gilroy-SemiboldItalic'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-SemiboldItalic.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-SemiboldItalic.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-SemiboldItalic.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-SemiboldItalic.ttf') format('truetype'); */
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Medium.eot'); */
+  src: local('Gilroy Medium'), local('Gilroy-Medium'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-Medium.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-Medium.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Medium.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Medium.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Medium.ttf') format('truetype'); */
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Bold.eot'); */
+  src: local('Gilroy Bold'), local('Gilroy-Bold'),
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-Bold.otf') format('opentype'); */
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-Bold.otf') format('opentype');
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Bold.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Bold.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Bold.ttf') format('truetype'); */
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-RegularItalic.eot'); */
+  src: local('Gilroy Regular Italic'), local('Gilroy-RegularItalic'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-RegularItalic.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-RegularItalic.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-RegularItalic.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-RegularItalic.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-RegularItalic.ttf') format('truetype'); */
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Light.eot'); */
+  src: local('Gilroy Light'), local('Gilroy-Light'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-Light.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-Light.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Light.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Light.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Light.ttf') format('truetype'); */
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-LightItalic.eot'); */
+  src: local('Gilroy Light Italic'), local('Gilroy-LightItalic'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-LightItalic.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-LightItalic.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-LightItalic.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-LightItalic.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-LightItalic.ttf') format('truetype'); */
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Heavy.eot'); */
+  src: local('Gilroy Heavy'), local('Gilroy-Heavy'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-Heavy.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-Heavy.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Heavy.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Heavy.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Heavy.ttf') format('truetype'); */
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-MediumItalic.eot'); */
+  src: local('Gilroy Medium Italic'), local('Gilroy-MediumItalic'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-MediumItalic.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-MediumItalic.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-MediumItalic.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-MediumItalic.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-MediumItalic.ttf') format('truetype'); */
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-display: swap;
+  /* src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Thin.eot'); */
+  src: local('Gilroy Thin'), local('Gilroy-Thin'),
+  url('https://storage.googleapis.com/gomechanic_assets/Website/font/Gilroy-Thin.otf') format('opentype');
+  /* url('https://websiteasset.s3.ap-south-1.amazonaws.com/font/Gilroy-Thin.otf') format('opentype'); */
+  /* url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Thin.eot?#iefix') format('embedded-opentype'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Thin.woff') format('woff'),
+  url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Thin.ttf') format('truetype'); */
+  font-weight: 100;
+  font-style: normal;
+}

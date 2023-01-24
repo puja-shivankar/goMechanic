@@ -1,0 +1,13 @@
+.quetion-main {
+    /* margin-top: 4em; */
+    /* margin: 2em; */
+  }
+  
+  .quetions {
+    flex-shrink: 0;
+    font-weight: bold;
+    padding: 0;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+  }

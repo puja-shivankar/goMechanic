@@ -1,0 +1,32 @@
+.btn-typography {
+  text-transform: none;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.header-menu {
+  margin-top: 0.5em;
+  cursor: pointer;
+}
+.search-box {
+  background-color: hsla(0, 0%, 100%, 0.27);
+  padding: 0.8125rem 1.25rem;
+  border-radius: 6px;
+  /* min-width: 522px; */
+  min-width: 30em;
+  height: 3em;
+  margin-right: 5em;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -ms-flex-pack: start !important;
+  justify-content: flex-start !important;
+  -ms-flex-align: center !important;
+  align-items: center !important;
+}
+.search-box input {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  width: 100%;
+  color: white;
+}

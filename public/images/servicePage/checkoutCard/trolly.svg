@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="239.202" height="160.7" viewBox="0 0 239.202 160.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f1f1f1;
+      }
+
+      .cls-2 {
+        fill: #f6f6f6;
+      }
+
+      .cls-3 {
+        fill: rgba(155,155,155,0.5);
+      }
+    </style>
+  </defs>
+  <g id="Group_6992" data-name="Group 6992" transform="translate(0 -35.3)">
+    <path id="Path_8684" data-name="Path 8684" class="cls-1" d="M188.951,758.27c4.93,9.143,15.394,13.068,15.394,13.068s2.47-10.9-2.46-20.043-15.394-13.068-15.394-13.068S184.021,749.127,188.951,758.27Z" transform="translate(-172.436 -575.861)"/>
+    <path id="Path_8685" data-name="Path 8685" class="cls-2" d="M171.9,775.468c8.9,5.355,12.329,15.992,12.329,15.992s-11,1.954-19.9-3.4S152,772.067,152,772.067,163,770.113,171.9,775.468Z" transform="translate(-152 -596.068)"/>
+    <path id="Path_8686" data-name="Path 8686" class="cls-3" d="M219.2,637.728h-93.93v-.675h93.254V604.278H133.171l-4.147-8.639.609-.292L133.6,603.6H219.2Z" transform="translate(-75.58 -459.506)"/>
+    <ellipse id="Ellipse_216" data-name="Ellipse 216" class="cls-3" cx="7.095" cy="7.095" rx="7.095" ry="7.095" transform="translate(55.1 180.587)"/>
+    <ellipse id="Ellipse_217" data-name="Ellipse 217" class="cls-3" cx="7.095" cy="7.095" rx="7.095" ry="7.095" transform="translate(125.041 180.587)"/>
+    <path id="Path_8687" data-name="Path 8687" class="cls-3" d="M344.071,552.2H238.493l-22.844-74.671H367.6l-.138.44Zm-105.078-.675H343.575l23.1-73.32H216.562Z" transform="translate(-190.4 -418.579)"/>
+    <path id="Path_8688" data-name="Path 8688" class="cls-1" d="M195.058,479.239H102.325L82.26,413.015H215.722l-.121.39Z" transform="translate(-49.629 -349.503)"/>
+    <path id="Path_8689" data-name="Path 8689" class="cls-3" d="M450.471,358.875l-.653-.173,4.459-16.807h25.939v.676H454.8Z" transform="translate(-271.381 -306.594)"/>
+    <rect id="Rectangle_649" data-name="Rectangle 649" class="cls-3" width="136.973" height="0.676" transform="translate(32.631 81.589)"/>
+    <rect id="Rectangle_650" data-name="Rectangle 650" class="cls-3" width="121.512" height="0.676" transform="translate(40.247 106.485)"/>
+    <rect id="Rectangle_651" data-name="Rectangle 651" class="cls-3" width="0.676" height="73.995" transform="translate(100.883 59.289)"/>
+    <rect id="Rectangle_652" data-name="Rectangle 652" class="cls-3" width="74.152" height="0.676" transform="matrix(0.065, -0.998, 0.998, 0.065, 126.963, 133.262)"/>
+    <rect id="Rectangle_653" data-name="Rectangle 653" class="cls-3" width="0.676" height="74.152" transform="translate(69.968 59.31) rotate(-3.729)"/>
+    <rect id="Rectangle_654" data-name="Rectangle 654" class="cls-3" width="239.202" height="0.793" transform="translate(0 195.207)"/>
+  </g>
+</svg>

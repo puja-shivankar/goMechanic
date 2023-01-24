@@ -1,0 +1,140 @@
+.knowMore {
+  font-size: 0.875rem;
+  cursor: pointer;
+  font-weight: 600;
+  line-height: 1.38;
+  margin-left: 0;
+  background: #73a9e5;
+  padding: 12px 10px 12px 12px;
+  margin-top: -40px;
+  position: relative;
+  width: 55.8em;
+  color: white;
+}
+.hr {
+  height: 0.1429rem;
+  border: solid;
+  /* width: 40px; */
+  width: 2.5rem;
+  border-color: #fff;
+  margin: 10px 0;
+}
+.hr-secondary {
+  background-color: #fff;
+}
+
+.main {
+  width: 100%;
+  height: 28vh;
+  font-size: 0.875rem;
+  cursor: pointer;
+  font-weight: 600;
+  line-height: 1.38;
+  margin-left: 1.2em;
+  background: #4590e6;
+  padding: 12px 10px 12px;
+
+  position: relative;
+  margin-top: 2em;
+}
+.caption-p {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: normal;
+  font-stretch: normal;
+  font-style: normal;
+  text-align: left;
+  color: #fff;
+  width: max-content;
+}
+.caption2-p {
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.16px;
+  letter-spacing: 0.01rem;
+  text-align: left;
+  color: #fff;
+  width: max-content;
+}
+.model-img {
+  float: right;
+  margin-top: -1em;
+}
+.modal-header {
+  font-size: 22px;
+  line-height: 0.86;
+  letter-spacing: 0.2px;
+  text-align: left;
+  margin-top: 21px;
+  cursor: pointer;
+}
+.modal-cap {
+  font-size: 22px;
+  letter-spacing: normal;
+  color: #fff;
+
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 23px;
+  width: max-content;
+  font-weight: 600;
+  line-height: 1.2;
+  font-stretch: normal;
+  font-style: normal;
+  text-align: center;
+}
+.ul-list {
+  list-style-image: url(https://websiteasset.s3.ap-south-1.amazonaws.com/New+Website/components/detailPage/+Font.png);
+}
+.li-list {
+  cursor: text;
+  margin-top: 17px;
+  font-size: 16px;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.69;
+  letter-spacing: 0.14px;
+  text-align: left;
+  color: #4a4a4a;
+}
+.div-list {
+  position: relative;
+  top: -2px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #9b9b9b;
+  line-height: 1.5;
+  letter-spacing: 0.15px;
+  font-weight: 500;
+}
+.dash {
+  width: 100%;
+  height: 7px;
+  background-color: #f2f4f6;
+}
+.ul-list2 {
+  list-style-image: url(https://websiteasset.s3.ap-south-1.amazonaws.com/New+Website/components/detailPage/FontCross.png);
+}
+.li-list2 {
+  color: #9b9b9b;
+  position: relative;
+  top: -2px;
+  font-size: 16px;
+  font-weight: 500;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.list-caption {
+  font-size: 18px;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.67;
+  letter-spacing: 0.04px;
+  text-align: left;
+  color: #282828;
+  padding: 25px 17px 0;
+}

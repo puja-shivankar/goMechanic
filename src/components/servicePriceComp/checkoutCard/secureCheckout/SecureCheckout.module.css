@@ -1,0 +1,24 @@
+.checkout-header {
+  background-color: white;
+}
+.checkout-headerDesc {
+  display: flex;
+  align-items: center;
+  padding: 1.5em 2em;
+}
+.checkout-headerDesc div {
+  margin-left: 1em;
+  font-size: 1.1em;
+  font-weight: 700;
+}
+
+.checkout-content {
+  margin-left: 3.5em;
+}
+body {
+  background: #f6f6f6;
+}
+.loader-style {
+  padding-top: 35vh;
+  padding-left: 100vh;
+}

@@ -1,0 +1,22 @@
+.sticky-header {
+  padding: 0 1.25rem;
+  -webkit-box-shadow: 0 0.25rem 0.3125rem 0 rgb(0 0 0 / 12%);
+  box-shadow: 0 0.25rem 0.3125rem 0 rgb(0 0 0 / 12%);
+  background-color: #f6f6f6;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  /* position: relative; */
+  text-transform: capitalize;
+}
+.sticky-tabs {
+  margin: 0 1.25rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  text-transform: capitalize;
+}

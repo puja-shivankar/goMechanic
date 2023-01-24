@@ -1,0 +1,88 @@
+.service-modal {
+  position: fixed;
+  bottom: -4px;
+  right: 2rem;
+  padding: 3em;
+  width: 30vw;
+  height: 80vh;
+  z-index: 98;
+}
+.scroll-card {
+  overflow-x: hidden;
+  height: 100%;
+  overflow-y: scroll !important;
+}
+.select-car {
+  text-transform: uppercase;
+  border: 1px solid gray;
+  padding: 0.5em;
+  margin-bottom: 1em;
+  font-weight: 500;
+  cursor: pointer;
+}
+.select-car:hover {
+  transform: scale(1.01);
+}
+
+.mobile-no {
+  text-transform: uppercase;
+  border: 1px solid gray;
+  padding: 0.5em;
+  margin-bottom: 1em;
+  font-weight: 500;
+}
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+}
+.mobile-no input {
+  border: none;
+  outline: none;
+  text-transform: uppercase;
+}
+
+.mobile-no:hover {
+  transform: scale(1.01);
+}
+
+.check-price-btn:hover {
+  transform: scale(1.1);
+}
+
+.select-car input {
+  border: none;
+  outline: none;
+}
+
+.car-logo {
+  justify-items: center;
+  cursor: pointer;
+  width: 70px;
+  height: 60px;
+}
+.car-logo:hover {
+  transform: scale(1.1);
+}
+.car-text {
+  text-align: center;
+  justify-content: center;
+  font-size: smaller;
+  cursor: pointer;
+}
+.back-arrow {
+  margin-right: 1em;
+  height: 3em;
+  width: 3em;
+}
+.text-heading {
+  font-weight: bold;
+}
+.list {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+.listItem {
+  margin-bottom: 20px;
+}
+.scroll {
+}

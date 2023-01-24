@@ -1,0 +1,96 @@
+.newMessage {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+  border-bottom: solid 1px lightgray;
+  padding: 0.5rem;
+  font-size: small;
+}
+:is(.leftContent, .rightContent) {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 30%;
+}
+.newMessage .leftContent .filledButton {
+  padding: 00.5rem;
+}
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.3rem;
+}
+.navBar .leftNavbar {
+  display: flex;
+  width: 50%;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0.5rem 1rem;
+}
+.menu {
+  display: none;
+}
+.searchBar {
+  display: flex;
+  width: 65%;
+}
+
+.mic,
+.searchMenu {
+  padding: 0.5rem;
+  cursor: pointer;
+}
+.searchBar .icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  width: 0;
+  left: -5rem;
+}
+.navBar .searchBar input {
+  font-weight: 500;
+  font-size: medium;
+  width: 100%;
+  padding: 1rem;
+  border: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.655);
+  outline: none;
+  border-radius: var(--defaultRadius);
+  cursor: text;
+}
+
+.navBar .rightNavbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 45%;
+}
+
+.menueItem,
+.loginButton {
+  color: var(--primary);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.cart {
+  height: 2rem;
+}
+.cartNumber {
+  position: relative;
+  color: white;
+  font-size: small;
+  top: -50%;
+  left: -30%;
+}
+.menueItem .filledButton:hover {
+  padding: 0.8rem;
+  font-size: 18px;
+  margin: -0.4rem;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

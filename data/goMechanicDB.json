@@ -1,0 +1,1201 @@
+{
+  "Alldata": [
+    {
+      "CarServicesData": [
+        {
+          "image": "images/carServices/img1.png",
+          "name": "Periodic Services"
+        },
+        {
+          "image": "images/carServices/img2.svg",
+          "name": "Ac Services and Repair"
+        },
+        {
+          "image": "images/carServices/img3.png",
+          "name": "Batteries"
+        },
+        {
+          "image": "images/carServices/img4.png",
+          "name": "Tyres and wheels care"
+        },
+        {
+          "image": "images/carServices/img5.svg",
+          "name": "Denting and painting"
+        },
+        {
+          "image": "images/carServices/img6.png",
+          "name": "Detailing Services"
+        },
+        {
+          "image": "images/carServices/img7.svg",
+          "name": "Car Spa and Cleaning"
+        },
+        {
+          "image": "images/carServices/img8.svg",
+          "name": "Car inspection"
+        },
+        {
+          "image": "images/carServices/img9.svg",
+          "name": "WindShields and light"
+        },
+        {
+          "image": "images/carServices/img10.png",
+          "name": "Suspension and fitment"
+        },
+        {
+          "image": "images/carServices/img11.svg",
+          "name": "Clutch and Body part"
+        },
+        {
+          "image": "images/carServices/img12.png",
+          "name": "Insurance Claim"
+        }
+      ],
+      "MechanicWorkData": [
+        {
+          "name": "Select The Perfect Car Service",
+          "text": "From GoMechanic Board Portfolio Of Services",
+          "image": "images/mechanicWork/img1.png"
+        },
+        {
+          "name": "Schedule Free Doorstep PickUp",
+          "text": "We Offer Free PicUp And Drop For All Services Booked",
+          "image": "images/mechanicWork/img2.png"
+        },
+        {
+          "name": " Track Your Car Service Real Time",
+          "text": "We Will Take Care Of Everything from here",
+          "image": "images/mechanicWork/img3.png"
+        },
+        {
+          "name": " Earn While We Service",
+          "text": "Spread The Word! You Get Rs.720.Your Friend Get Rs.720",
+          "image": "images/mechanicWork/img4.png"
+        }
+      ],
+      "MechanicBenefitData": [
+        {
+          "name": "Free Doorstep Pick-Up And Drop",
+          "text": "NO More Unnecessary Work Shop Visit",
+          "image": "images/mechanicBenefit/img1.png"
+        },
+        {
+          "name": "UpFront Competitive Pricing",
+          "text": "We Offer Free PicUp And Drop For All Services Booked",
+          "image": "images/mechanicBenefit/img2.png"
+        },
+        {
+          "name": " Network Warranty On Car Service",
+          "text": "We Will Take Care Of Everything from here",
+          "image": "images/mechanicBenefit/img3.png"
+        },
+        {
+          "name": " 100% Genuine Parts",
+          "text": "Spread The Word! You Get Rs.720.Your Friend Get Rs.720",
+          "image": "images/mechanicBenefit/img4.png"
+        }
+      ],
+
+      "CarBrands": [
+        {
+          "name": "Hyundai",
+          "icon": "images/carLogos/hundai.jpeg"
+        },
+        {
+          "name": "Maruti Suzuki",
+          "icon": "images/carLogos/maruti-suzuki.jpeg"
+        },
+        {
+          "name": "Chevrolet",
+          "icon": "images/carLogos/chevrolet.jpeg"
+        },
+        {
+          "name": "Daewoo",
+          "icon": "images/carLogos/daewoo.jpeg"
+        },
+        {
+          "name": "Datsun",
+          "icon": "images/carLogos/datsun.jpeg"
+        },
+        {
+          "name": "Fiat",
+          "icon": "images/carLogos/fiat.jpeg"
+        },
+        {
+          "name": "Ford",
+          "icon": "images/carLogos/ford.jpeg"
+        },
+        {
+          "name": "Mahindra",
+          "icon": "images/carLogos/mahindra.jpeg"
+        },
+        {
+          "name": "Honda",
+          "icon": "images/carLogos/honda.jpeg"
+        },
+        {
+          "name": "Volkswagan",
+          "icon": "images/carLogos/volkswagan.jpeg"
+        },
+        {
+          "name": "Tata",
+          "icon": "images/carLogos/tata.jpeg"
+        }
+      ],
+      "CarModels": [
+        {
+          "name": "Swift",
+          "icon": "images/carModels/model1.jpeg"
+        },
+        {
+          "name": "WagonR",
+          "icon": "images/carModels/model2.jpeg"
+        },
+        {
+          "name": "Swift Dzire",
+          "icon": "images/carModels/model3.jpeg"
+        },
+        {
+          "name": "Alto",
+          "icon": "images/carModels/model4.jpeg"
+        },
+        {
+          "name": "Ritz",
+          "icon": "images/carModels/model5.jpeg"
+        },
+        {
+          "name": "Baleno",
+          "icon": "images/carModels/model6.jpeg"
+        }
+      ],
+      "FuelType": [
+        {
+          "name": "Petrol",
+          "icon": "images/carModels/PETROL.svg"
+        },
+        {
+          "name": "CNG",
+          "icon": "images/carModels/CNG.svg"
+        },
+        {
+          "name": "Diesel",
+          "icon": "images/carModels/DIESEL.svg"
+        }
+      ],
+      "City": [
+        {
+          "name": "Delhi",
+          "image": "images/cityImg/img1.png"
+        },
+        {
+          "name": "Gurgaon",
+          "image": "images/cityImg/img2.png"
+        },
+        {
+          "name": "Noida",
+          "image": "images/cityImg/img3.png"
+        },
+        {
+          "name": "Ghaziabad",
+          "image": "images/cityImg/img4.png"
+        },
+        {
+          "name": "Mumbai",
+          "image": "images/cityImg/img5.png"
+        },
+        {
+          "name": "Pune",
+          "image": "images/cityImg/img6.png"
+        },
+        {
+          "name": "Hydrabad",
+          "image": "images/cityImg/img7.png"
+        },
+        {
+          "name": "Bangalore",
+          "image": "images/cityImg/img8.png"
+        },
+        {
+          "name": "chennai",
+          "image": "images/cityImg/img9.png"
+        },
+        {
+          "name": "Jaipur",
+          "image": "images/cityImg/img10.png"
+        },
+        {
+          "name": "Chandigarh",
+          "image": "images/cityImg/img11.png"
+        },
+        {
+          "name": "Ahmedabad",
+          "image": "images/cityImg/img12.png"
+        },
+        {
+          "name": "Lucknow",
+          "image": "images/cityImg/img13.png"
+        },
+        {
+          "name": "Kolkata",
+          "image": "images/cityImg/img14.png"
+        },
+        {
+          "name": "Navi Mumbai",
+          "image": "images/cityImg/img15.png"
+        }
+      ],
+      "CustomServices": [
+        {
+          "image": "images/customServices/Brakes.png",
+          "name": "Brakes"
+        },
+        {
+          "image": "images/customServices/AC Parts.png",
+          "name": "Ac Parts"
+        },
+        {
+          "image": "images/customServices/Clutch.png",
+          "name": "Clutch"
+        },
+        {
+          "image": "images/customServices/Tyres.png",
+          "name": "Tyres"
+        },
+        {
+          "image": "images/customServices/Steering.png",
+          "name": "Steering"
+        },
+        {
+          "image": "images/customServices/Suspension.png",
+          "name": "Suspension"
+        },
+        {
+          "image": "images/customServices/GoConnect.png",
+          "name": "Go-Connect 2-0"
+        },
+        {
+          "image": "images/customServices/Lights.png",
+          "name": "Lights"
+        },
+        {
+          "image": "images/customServices/Body Parts.png",
+          "name": "Body Parts"
+        },
+        {
+          "image": "images/customServices/Glasses.png",
+          "name": "Glasses"
+        },
+        {
+          "image": "images/customServices/Batteries.png",
+          "name": "Batteries"
+        },
+        {
+          "image": "images/customServices/Car Spa.png",
+          "name": "Car Spa"
+        },
+        {
+          "image": "images/customServices/Car Detailing.png",
+          "name": "Car Detailing"
+        },
+        {
+          "image": "images/customServices/Side Mirror.png",
+          "name": "Side Mirror"
+        }
+      ],
+      "PriceList": [
+        {
+          "Services Type": "Car Inspection/Diagnostics",
+          "Price Starts from Rs.": 499,
+          "Savings": "15%"
+        },
+        {
+          "Services Type": "Inspection",
+          "Price Starts from Rs.": 499,
+          "Savings": "25%"
+        },
+        {
+          "Services Type": "Door Glass Replacement",
+          "Price Starts from Rs.": 850,
+          "Savings": "30%"
+        },
+        {
+          "Services Type": "Wind Shield Replacement(Inssurance",
+          "Price Starts from Rs.": 1000,
+          "Savings": "25%"
+        },
+        {
+          "Services Type": "Accessories",
+          "Price Starts from Rs.": 1099,
+          "Savings": "30%"
+        },
+        {
+          "Services Type": "Regular AC Service",
+          "Price Starts from Rs.": 1299,
+          "Savings": "15%"
+        },
+        {
+          "Services Type": "Front Head Lights",
+          "Price Starts from Rs.": 1399,
+          "Savings": "30%"
+        },
+        {
+          "Services Type": "Tyres & Wheel Care",
+          "Price Starts from Rs.": 1690,
+          "Savings": "10%"
+        },
+        {
+          "Services Type": "Basic Service",
+          "Price Starts from Rs.": 2099,
+          "Savings": "10%"
+        },
+        {
+          "Services Type": "Batteries",
+          "Price Starts from Rs.": 2999,
+          "Savings": "15%"
+        },
+        {
+          "Services Type": "Ceramic coating",
+          "Price Starts from Rs.": 14999,
+          "Savings": "25%"
+        },
+        {
+          "Services Type": "Full Body Dent Paint",
+          "Price Starts from Rs.": 23000,
+          "Savings": "15%"
+        }
+      ],
+      "ServiceTabsData": [
+        {
+          "name": "Periodic Services",
+          "icon": "images/serviceTabs/periodic.svg",
+          "value": 1
+        },
+        {
+          "name": "AC Service Repair",
+          "icon": "images/serviceTabs/ac.svg",
+          "value": 2
+        },
+        {
+          "name": "Batteries",
+          "icon": "images/serviceTabs/batteries.svg",
+          "value": "3"
+        },
+        {
+          "name": "Tyre & Wheel Care",
+          "icon": "images/serviceTabs/tyre-wheel.svg",
+          "value": "4"
+        },
+        {
+          "name": "Denting & Painting",
+          "icon": "images/serviceTabs/denting-painting.svg",
+          "value": "5"
+        },
+        {
+          "name": "Detailing Services",
+          "icon": "images/serviceTabs/detailing.svg",
+          "value": "6"
+        },
+        {
+          "name": "Car Spa & Cleaning",
+          "icon": "images/serviceTabs/carspa.png",
+          "value": "7"
+        },
+        {
+          "name": "Car Inspections",
+          "icon": "images/serviceTabs/car-inspect.png",
+          "value": "8"
+        },
+        {
+          "name": "Windshields & Lights",
+          "icon": "images/serviceTabs/windshield.svg",
+          "value": "9"
+        },
+        {
+          "name": "Suspension & Fitness",
+          "icon": "images/serviceTabs/suspension.png",
+          "value": "10"
+        },
+        {
+          "name": "Clutch & Body Parts",
+          "icon": "images/serviceTabs/clutch.png",
+          "value": "11"
+        }
+      ],
+      "StickyMenudata": [
+        {
+          "title": "Our Services",
+          "id": "our-services"
+        },
+        {
+          "title": "Curated Custom Service",
+          "id": "curated-customer-service"
+        },
+        {
+          "title": "Monsoon Mist",
+          "id": "monsoon-mist"
+        },
+        {
+          "title": "GoMechanic Luxe",
+          "id": "gomechanic-luxe"
+        },
+        {
+          "title": "How GoMechanic Works?",
+          "id": "gomechanic-work"
+        },
+        {
+          "title": "GoMechanic Benefits",
+          "id": "gomechanic-benefits"
+        },
+        {
+          "title": "Rating & Reviews",
+          "id": "rating-reviews"
+        },
+        {
+          "title": "Frequently asked questions",
+          "id": "frequently-ask-que"
+        }
+      ],
+      "FeaturedCategories": [
+        {
+          "text": "Upto 45% off",
+          "name": "Engine Oil",
+          "image": "images/sparePage/FeaturedCategories/EnginOil.png"
+        },
+        {
+          "text": "Upto 20% off",
+          "name": "Tyre",
+          "image": "images/sparePage/FeaturedCategories/tyres.png "
+        },
+        {
+          "text": "Upto 30% off",
+          "name": "Oil Filter",
+          "image": "images/sparePage/FeaturedCategories/oil-filter.png"
+        },
+        {
+          "text": "Upto 30% off",
+          "name": "Coolant",
+          "image": "images/sparePage/FeaturedCategories/coolent.png"
+        },
+
+        {
+          "text": "Upto 30% off",
+          "name": "Wiper Blade",
+          "image": "images/sparePage/FeaturedCategories/wiper-blade.png"
+        },
+        {
+          "text": "Upto 30% off",
+          "name": "Side View Mirror",
+          "image": "images/sparePage/FeaturedCategories/side-mirror.png"
+        },
+        {
+          "text": "Upto 30% off",
+          "name": "Clutch Kit",
+          "image": "images/sparePage/FeaturedCategories/clutch-kit.png"
+        },
+        {
+          "text": "Upto 30% off",
+          "name": "Headlight",
+          "image": "images/sparePage/FeaturedCategories/headlight-bulb.png"
+        }
+      ],
+      "OEMBrands": [
+        {
+          "image": "images/sparePage/OEMBrands/MGP.png"
+        },
+        {
+          "image": "images/sparePage/OEMBrands/Hyundai.png"
+        },
+        {
+          "image": "images/sparePage/OEMBrands/TOYOTA.png"
+        },
+        {
+          "image": "images/sparePage/OEMBrands/MAHINDRA.png"
+        },
+        {
+          "image": "images/sparePage/OEMBrands/Tata.png"
+        },
+        {
+          "image": "images/sparePage/OEMBrands/KIA.png"
+        },
+        {
+          "image": "images/sparePage/OEMBrands/MITSUBISHI.png"
+        },
+        {
+          "image": "images/sparePage/OEMBrands/NISSAN.png"
+        },
+        {
+          "image": "images/sparePage/OEMBrands/RENAULT.png"
+        },
+        {
+          "image": "images/sparePage/OEMBrands/FORD.png"
+        },
+        {
+          "image": "images/sparePage/OEMBrands/HONDA.png"
+        },
+        {
+          "image": "images/sparePage/OEMBrands/SKODA.png"
+        }
+      ],
+      "OESBrands": [
+        {
+          "image": "images/sparePage/oesBrands/APOLLO.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/AUTOGOLD.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/bosch.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/BRIDGESTON.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/CEAT.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/continental.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/EXXONMOBIL.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/gabriel.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/GOMECHANIC.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/goodyear.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/jk.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/LUK.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/LUMAX.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/Hyundai.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/TOYOTA.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/MAHINDRA.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/mann filter (1).png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/mann filter.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/michelin.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/purolator.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/SHELL.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/SRF.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/Subros.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/TALBROS.png"
+        },
+
+        {
+          "image": "images/sparePage/oesBrands/TEXTAR.png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/TVS GRILING .png"
+        },
+        {
+          "image": "images/sparePage/oesBrands/UNO MINDA.png"
+        }
+      ],
+      "TOPDEALS": [
+        {
+          "image": "images/sparePage/topdeals/smartcool.jpg",
+          "rating": "4.7",
+          "name": "GoMechanic Smartcool Green Coolant(1L)",
+          "description": "Brand:GOMECHANIC Part No:GMUNZZCL001",
+          "originalPrice": "250",
+          "off": "40%OFF"
+        },
+        {
+          "image": "images/sparePage/topdeals/speed.jpg",
+          "rating": "4.7",
+          "name": "GoMechanic Speed 5w30 Sn Plus (3.5L)Engin Oil",
+          "description": "Brand:GOMECHANIC Part No:GMUZZLB003",
+          "originalPrice": "2576",
+          "off": "25%OFF"
+        },
+        {
+          "image": "images/sparePage/topdeals/smartshift.jpg",
+          "rating": "4.7",
+          "name": "GoMechanic Smartshift Pro 80W90 Gl4 (1L)Transmisson Oil",
+          "description": "Brand:GOMECHANIC Part No:GMUNZZLB024",
+          "originalPrice": "304",
+          "off": "20%OFF"
+        },
+        {
+          "image": "images/sparePage/topdeals/supertrumpet.jpg",
+          "rating": "4.6",
+          "name": "GoMechanic Super Trumpet Black Windtone Horn 90Mm Set",
+          "description": "Brand:GOMECHANIC Part NO:GMUNZZHN009",
+          "originalPrice": "1042",
+          "off": "20%OFF"
+        },
+        {
+          "image": "images/sparePage/topdeals/touchscreen.jpg",
+          "rating": "4.6",
+          "name": "Godryft7 Inch 16Gb ROM Android Touch screen",
+          "description": "Brand:GOMECHANIC Part NO:GMAAD010",
+          "originalPrice": "15999",
+          "off": "56%OFF"
+        },
+        {
+          "image": "images/sparePage/topdeals/taurus.jpg",
+          "rating": "4.5",
+          "name": "GoMechanic Taurus T1 8 Inch Active Bass Tube Subwoofer with Built-in Amplifire",
+          "description": "Brand:GOMECHANIC Part NO:GMABS002",
+          "originalPrice": "6999",
+          "off": "52%OFF"
+        },
+        {
+          "image": "images/sparePage/topdeals/gustot4.jpg",
+          "rating": "4.7",
+          "name": "GoMechanic Gusto T4 Digital Car Tyre Inflator",
+          "description": "Brand:GOMECHANIC Part NO:GMUNZZHN009",
+          "originalPrice": "2999",
+          "off": "48%"
+        },
+        {
+          "image": "images/sparePage/topdeals/neutron.jpg",
+          "rating": "4.5",
+          "name": "GoMechanic Neutron 4500 Handheld Car Vaccuum..",
+          "description": "Brand:GOMECHANIC Part NO:GMUNZZHN009",
+          "originalPrice": "1799",
+          "off": "55%"
+        }
+      ],
+      "SpareOffer": [
+        {
+          "name": "MobiKwik",
+          "description": "5% Cashback Upto Rs 250 with MobiKwik",
+          "image": "images/sparePage/spareoffer/Freecharrger new logo.png"
+        },
+        {
+          "name": "Freecharge",
+          "description": "5% Cashback upto Rs.500 on Freecharge Paylater",
+          "image": "images/sparePage/spareoffer/Mobikwik.png"
+        },
+        {
+          "name": "Simpl",
+          "description": "5% Cashback upto ₹750",
+          "image": "images/sparePage/spareoffer/OlaMoney logo@4x.png"
+        },
+        {
+          "name": "Ola Money Postpaid +",
+          "description": "Flat 10% cashback upto Rs 1000",
+          "image": "images/sparePage/spareoffer/Simpl.png"
+        }
+      ],
+      "Selectmenu": [
+        {
+          "id": "1",
+          "name": "Maruti"
+        },
+        {
+          "id": "2",
+          "name": "Honda"
+        }
+      ],
+      "selectModel": [
+        {
+          "id": "1",
+          "manufactID": "1",
+          "name": "800"
+        },
+        {
+          "id": "2",
+          "manufactID": "1",
+          "name": "1000"
+        },
+        {
+          "id": "3",
+          "manufactID": "2",
+          "name": "BRV"
+        },
+        {
+          "id": "4",
+          "manufactID": "2",
+          "name": "CITY"
+        }
+      ],
+      "yearRange": [
+        {
+          "id": "1",
+          "modelID": "1",
+          "name": "1997-2005"
+        },
+        {
+          "id": "2",
+          "modelID": "1",
+          "name": "2005-2014"
+        },
+        {
+          "id": "3",
+          "modelID": "2",
+          "name": "2016-2021"
+        }
+      ],
+      "varient": [
+        {
+          "id": "1",
+          "yearID": "1",
+          "name": "0.8L A/C (TYPE 2) | PETROL"
+        },
+        {
+          "id": "2",
+          "yearID": "2",
+          "name": "0.8L DX 5-SPEED (TYPE 3) F/L | PETROL"
+        },
+        {
+          "id": "3",
+          "yearID": "2",
+          "name": "0.8L DX 5-SPEED (TYPE 3) F/L | PETROL"
+        }
+      ],
+      "PackageCardData": [
+        {
+          "Periodic": [
+            {
+              "header": "Scheduled Packages",
+              "content": [
+                {
+                  "cardImage": "images/servicePage/basic-service.jpg",
+                  "title": "Basic Service",
+                  "desc": "• 1000 Kms or 1 Month Warranty   • Every 5000 Kms or 3 Months (Recommended)",
+                  "bullets": [
+                    "Wiper Fluid Replacement",
+                    "Battery Water Top Up",
+                    "Car Wash",
+                    "Interior Vacuuming ( Carpet & Seats )",
+                    "Engine Oil Replacement",
+                    "Oil Filter Replacement",
+                    "Air Filter Cleaning",
+                    "Smartcool Coolant Top Up",
+                    "Heater/Spark Plugs Checking"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 3499,
+                  "discount": 20,
+                  "timeTaken": 4,
+                  "isAddedToCart": false
+                },
+                {
+                  "cardImage": "images/servicePage/periodic/img2.jpg",
+                  "title": "Standard Service",
+                  "desc": "• 1000 Kms or 1 Month Warranty    • Every 10,000 Kms or 6 Months (Recommended)",
+                  "bullets": [
+                    "Car Scanning",
+                    "Wiper Fluid Replacement",
+                    "Battery Water Top up",
+                    "Car Wash",
+                    "Interior Vacuuming ( Carpet & Seats )",
+                    "Rear Brake Shoes Serviced",
+                    "Front Brake Pads Serviced",
+                    "Engine Oil Replacement",
+                    "Oil Filter Replacement",
+                    "Air Filter Replacement",
+                    "Fuel Filter Checking",
+                    "Smartcool Coolant Top Up",
+                    "Heater/Spark Plugs Checking",
+                    "Brake Fluid Top Up",
+                    "AC Filter Cleaning"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 4809,
+                  "discount": 20,
+                  "timeTaken": 6,
+                  "isAddedToCart": false
+                },
+                {
+                  "cardImage": "images/servicePage/periodic/img3.jpg",
+                  "title": "Comprehensive Service",
+                  "desc": "• 1000 Kms or 1 Month Warranty    • Every 20,000 Kms or 12 Months (Recommended)",
+                  "bullets": [
+                    "AC Filter Replacement",
+                    "Fuel Filter Checking",
+                    "Car Scanning",
+                    "Wiper Fluid Replacement",
+                    "Battery Water Top up",
+                    "Car Wash",
+                    "Interior Vacuuming ( Carpet & Seats )",
+                    "Rear Brake Shoes Serviced",
+                    "Front Brake Pads Serviced",
+                    "Wheel Balancing",
+                    "Wheel Alignment",
+                    "Tyre Rotation",
+                    "Engine Oil Replacement",
+                    "Oil Filter Replacement",
+                    "Air Filter Replacement",
+                    "Throttle Body Cleaning",
+                    "Gear Oil Top Up",
+                    "Smartcool Coolant Top Up",
+                    "Heater/Spark Plugs Checking",
+                    "Brake Fluid Top Up",
+                    "Engine Flushing"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 6239,
+                  "discount": 20,
+                  "timeTaken": 4,
+                  "isAddedToCart": false
+                }
+              ]
+            },
+            {
+              "header": "Brake Maintenance",
+              "content": [
+                {
+                  "cardImage": "images/servicePage/periodic/img4.jpg",
+                  "title": "Front Brake Pads",
+                  "desc": "• 1 Month Warranty    • Every 20000 Kms or 12 Months (Recommended)",
+                  "bullets": [
+                    "Opening & Fitting of Brakes",
+                    "Front Brake Pads Replacement (GoMechanic)",
+                    "Front Brake Disc Cleaning"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 4679,
+                  "discount": 20,
+                  "timeTaken": 3,
+                  "isAddedToCart": false
+                },
+                {
+                  "cardImage": "images/servicePage/periodic/img5.jpg",
+                  "title": "Rear Brake Shoes",
+                  "desc": "• 1 Month Warranty    • Every 20000 Kms or 12 Months (Recommended)",
+                  "bullets": [
+                    "Opening & Fitting of Brakes",
+                    "Rear Brake Shoes Replacement (OES)",
+                    "Rear Brake Disc Cleaning"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 2999,
+                  "discount": 20,
+                  "timeTaken": 3,
+                  "isAddedToCart": false
+                },
+                {
+                  "cardImage": "images/servicePage/periodic/img6.jpg",
+                  "title": "Front Brake Pads",
+                  "desc": "• 1 Month Warranty    • Corrosion Resistance",
+                  "bullets": [
+                    "Front Brake Disc Replacement (Single OES Unit)",
+                    "Opening & Fitting of Front Brake Disc",
+                    "Reduces Vibrations and Brake Noises",
+                    "Increases Brake Life & Safety",
+                    "Free Pickup & Drop"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 2280,
+                  "discount": 20,
+                  "timeTaken": 3,
+                  "isAddedToCart": false
+                },
+                {
+                  "cardImage": "images/servicePage/periodic/img7.jpg",
+                  "title": "Disc Turning",
+                  "desc": "• 1 Month Warranty on Labour",
+                  "bullets": [
+                    "Opening & Fitting + Inspection Of Below Items",
+                    "Resurfacing of Brake Discs/Rotors",
+                    "Applicable For Set of 2 Discs (2 Tyres)"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 839,
+                  "discount": 20,
+                  "timeTaken": 3,
+                  "isAddedToCart": false
+                },
+                {
+                  "cardImage": "images/servicePage/periodic/img8.jpg",
+                  "title": "Handbrake Wire Replacement",
+                  "desc": "• Recommended : In Case Handbrake Stops Working",
+                  "bullets": [
+                    "Handbrake Wire Replacement (Single OES Unit)",
+                    "Brake Drum Inspection",
+                    "Electronic Parking Brake Cost Additonal",
+                    "Wheel Cylinder, Ratchet, Clamps Cost Additional",
+                    "Free Pickup & Drop"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 4679,
+                  "discount": 20,
+                  "timeTaken": 3,
+                  "isAddedToCart": false
+                },
+                {
+                  "cardImage": "images/servicePage/periodic/img9.jpg",
+                  "title": "Brake Drums Turning",
+                  "desc": "• 1 Month Warranty    • Recommended : In Case of Screeching Noise from Brakes",
+                  "bullets": [
+                    "Brake Drums Turning",
+                    "Opening & Fitting of Brake Drums",
+                    "Refacing of Brake Drums",
+                    "Applicable for Set of 2 Drums",
+                    "Free Pickup & Drop"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 1079,
+                  "discount": 20,
+                  "timeTaken": 3,
+                  "isAddedToCart": false
+                }
+              ]
+            }
+          ],
+          "AcService": [
+            {
+              "header": "Service Packages",
+              "content": [
+                {
+                  "cardImage": "images/servicePage/ac/img1.jpg",
+                  "title": "Regular AC Service",
+                  "desc": "• 500 Kms or 1 Month Warranty   • Every 5,000 Kms or 3 Months (Recommended)",
+                  "bullets": [
+                    "AC Vent Cleaning",
+                    "AC Gas (upto 400 gms)",
+                    "Engine Oil Replacement",
+                    "AC Filter Cleaning",
+                    "AC Inspection",
+                    "Condenser Cleaning"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 2374,
+                  "discount": 20,
+                  "isAddedToCart": false
+                }
+              ]
+            }
+          ],
+          "Batteries": [
+            {
+              "header": "Amaron",
+              "content": [
+                {
+                  "cardImage": "images/servicePage/batteries/img1.png",
+                  "title": "Amaron (55 Months Warranty)",
+                  "desc": "• 55 months warranty    • 45 Amp Hour",
+                  "bullets": [
+                    "Free Pickup & Drop",
+                    "Old Battery Price Included",
+                    "Free Installation",
+                    "Available at Doorstep"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 6269,
+                  "discount": 20,
+                  "isAddedToCart": false
+                }
+              ]
+            }
+          ],
+          "CarSpa": [
+            {
+              "header": "Festive Special",
+              "content": [
+                {
+                  "cardImage": "images/servicePage/carSpa/img1.jpg",
+                  "title": "Festive 360° Deep Cleaning",
+                  "desc": "•  1 Month Warranty    • Brand New Festive Look",
+                  "bullets": [
+                    "Exterior Rubbing & Polishing",
+                    "Interior Vacuum Cleaning",
+                    "Tyre Dressing & Alloy Polishing",
+                    "Interior Wet Shampooing & Detailing",
+                    "Pressure Washing",
+                    "Free Pickup & Drop"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 2499,
+                  "discount": 20,
+                  "isAddedToCart": false
+                }
+              ]
+            }
+          ],
+          "ClutchBody": [
+            {
+              "header": "Clutch",
+              "content": [
+                {
+                  "cardImage": "images/servicePage/clutch/img1.jpg",
+                  "title": "Clutch Set Replacement",
+                  "desc": "• 1 Month Warranty    • Recommended : In Case of Hard Clutch & Pickup Issue",
+                  "bullets": [
+                    "Clutch Set OES (Clutch Plate + Pressure Plate) Replacement",
+                    "Clutch Cable / Wire, Release Bearing / Clutch Cylinder, Flywheel, Slave Cylinder in Add Ons",
+                    "Automatic Transmission Clutch rates may vary",
+                    "Opening & Fitting of Clutch Set",
+                    "Clutch Oil, Gear Oil Additional",
+                    "Free Pickup & Drop"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 7589,
+                  "discount": 20,
+                  "isAddedToCart": false
+                }
+              ]
+            }
+          ],
+          "Denting": [
+            {
+              "header": "Front Side",
+              "content": [
+                {
+                  "cardImage": "images/servicePage/denting/img1.jpg",
+                  "title": "Front Bumper Paint",
+                  "desc": "• 2 Years Warranty on Paint",
+                  "bullets": [
+                    "Grade A Primer",
+                    "4 Layers of Painting",
+                    "Premium DuPont Paint",
+                    "Panel Rubbing Polishing"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 3499,
+                  "discount": 20,
+                  "isAddedToCart": false
+                }
+              ]
+            }
+          ],
+          "Detailing": [
+            {
+              "header": "Polishing",
+              "content": [
+                {
+                  "cardImage": "images/servicePage/detailing/img1.jpg",
+                  "title": "3M™ Car Rubbing & Polishing",
+                  "desc": "• Every 6 Months (Recommended)",
+                  "bullets": [
+                    "Pressure Car Wash",
+                    "Alloy Polishing",
+                    "Rubbing with 3M Compound",
+                    "Tyre Dressing",
+                    "Machine Rubbing",
+                    "3M Wax Polishing"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 2759,
+                  "discount": 20,
+                  "isAddedToCart": false
+                }
+              ]
+            }
+          ],
+          "Inspection": [
+            {
+              "header": "Used Car",
+              "content": [
+                {
+                  "cardImage": "images/servicePage/inspection/im1.jpg",
+                  "title": "Second Hand Car Inspection",
+                  "desc": "• Available at Doorstep    • Scanner Report Provided",
+                  "bullets": [
+                    "50 Points Check-List",
+                    "Physical Car Diagnosis",
+                    "Full Car Scanning",
+                    "Upfront Estimate"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 749,
+                  "discount": 20,
+                  "isAddedToCart": false
+                }
+              ]
+            }
+          ],
+          "Suspension": [
+            {
+              "header": "Steering",
+              "content": [
+                {
+                  "cardImage": "images/servicePage/suspension/img1.jpg",
+                  "title": "EPS Module Repair",
+                  "desc": "• 1 Month Warranty    • Recommended : In Case of Hard Steering",
+                  "bullets": [
+                    "EPS Module Repair",
+                    "Torque Sensor Additional if Needed",
+                    "Steering Rack, Steering Motor Additional if Needed",
+                    "Free Pickup & Drop"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 4830,
+                  "discount": 20,
+                  "isAddedToCart": false
+                }
+              ]
+            }
+          ],
+          "TyreWheel": [
+            {
+              "header": "Apollo",
+              "content": [
+                {
+                  "cardImage": "images/servicePage/tyreWheel/img1.jpg",
+                  "title": "Apollo Amazer 4G Life",
+                  "desc": "• Tubeless    • 5 years warranty    • 175/65 R14 82T",
+                  "bullets": [
+                    "Free Pickup & Drop",
+                    "Tyres Inspection for Tread",
+                    "Tyre Replacement at Service Center",
+                    "Alignment & Balancing Charges Extra"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 3499,
+                  "discount": 20,
+                  "isAddedToCart": false
+                }
+              ]
+            }
+          ],
+          "WindShield": [
+            {
+              "header": "Windshields",
+              "content": [
+                {
+                  "cardImage": "images/servicePage/windShield/img1.jpg",
+                  "title": "Front Windshield Replacement",
+                  "desc": "• 1 Month Warranty on Fitting    • On Crack in Windshield (Recommended)",
+                  "bullets": [
+                    "Windshield (AIS Approved)",
+                    "Consumables - Sealant/Bond/Adhesive",
+                    "Sensor Charges Additional (If Applicable)",
+                    "Opening & Fitting of New Windshield",
+                    "Free Pickup & Drop"
+                  ],
+                  "icon": "images/servicePage/bullet-point.svg",
+                  "price": 6630,
+                  "discount": 20,
+                  "isAddedToCart": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

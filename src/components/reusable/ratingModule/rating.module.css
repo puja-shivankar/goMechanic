@@ -1,0 +1,23 @@
+.font-style {
+  font-size: 1.6rem;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  margin-left: 4rem;
+  text-align: center;
+  letter-spacing: 0.0075rem;
+  margin-top: 1rem;
+}
+
+.sub-text {
+  font-size: 0.7125rem;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.0075rem;
+  text-align: center;
+  color: grey;
+}
+
+.Benefit-data {
+  margin-left: 8rem;
+}

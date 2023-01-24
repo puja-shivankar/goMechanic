@@ -1,0 +1,15 @@
+.feat-body {
+  cursor: pointer;
+  height: 180px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  box-sizing: border-box;
+  background: #fff;
+
+  box-shadow: 0 0 4px rgb(0 0 0 /20%);
+  border-radius: 8px;
+}
+

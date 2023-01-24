@@ -1,0 +1,14 @@
+.main {
+  background-color: #393c3e;
+  width: 100vw;
+  height: 12vh;
+  /* position: fixed; */
+  top:0;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  width: 19rem !important;
+}

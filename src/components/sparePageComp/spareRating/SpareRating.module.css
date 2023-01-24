@@ -1,0 +1,22 @@
+.main-div{
+    background-color: #f7f7fa;
+    height: 15%;
+}
+.first-content{
+margin-left: 2.2em;
+font-weight: 600;
+    line-height: 32px;
+    color: rgba(0,0,0,.87);
+    font-size: 24px;
+
+}
+.sec-content{
+    /* margin-left: 2.2em; */
+    font-weight: 600;
+    line-height: 32px;
+    color: rgba(0,0,0,.87);
+    font-size: 24px;
+}
+.color{
+color: green;
+}

@@ -1,0 +1,15 @@
+.quetion-main {
+  margin-top: 4em;
+}
+
+.quetions {
+  padding: 0;
+  flex-direction: row;
+  align-items: center;
+  display: flex;
+}
+@media screen and (max-width: 1022px) and (min-width: 768px) {
+  .quetion-main {
+    font-size: 1.5em;
+  }
+}

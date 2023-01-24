@@ -1,0 +1,58 @@
+.slider-box {
+  /* background-color:  #fde3e6; */
+  /* margin: 2em; */
+}
+
+.card-body {
+  cursor: pointer;
+  height: 210px;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  box-sizing: border-box;
+  background: #fff;
+
+  box-shadow: 0 0 4px rgb(0 0 0 /20%);
+  border-radius: 8px;
+}
+
+.text-color {
+  color: black;
+  text-align: center;
+}
+
+.line {
+  height: 0.1429rem;
+  /* width: 40px; */
+  width: 4rem;
+  background-color: #e73c33;
+  margin-bottom: 1em;
+  color: red;
+}
+
+.text-color-red {
+  color: red;
+  text-align: center;
+  margin-top: 1em;
+  font-weight: 600;
+}
+.content{
+  margin:1em;
+}
+.Feat-categories {
+  /* margin: 2.2em; */
+
+  background: linear-gradient(
+    to top,
+
+    white 0%,
+
+    white 0%,
+
+    /* pink 0%, */ white 0%,
+
+    pink 50%
+  );
+}
